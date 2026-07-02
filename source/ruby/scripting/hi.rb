@@ -1,1 +1,1 @@
-puts "hi"
+puts "おはよう"
