@@ -5,3 +5,10 @@ default: list
 list:
   @just --list
 
+hi:
+  @nim c --hints:off --verbosity:0 hi.nim
+  @cp hi ~/hi
+  @chmod +x ~/hi
+  @~/hi
+  @rm ~/hi
+
