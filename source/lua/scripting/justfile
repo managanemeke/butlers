@@ -5,3 +5,6 @@ default: list
 list:
   @just --list
 
+hi:
+  @lua hi.lua
+
