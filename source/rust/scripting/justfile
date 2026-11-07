@@ -1,0 +1,14 @@
+set shell := ["bash", "-c"]
+
+default: list
+
+list:
+  @just --list
+
+hi:
+  @rustc hi.rs
+  @cp hi ~/hi
+  @chmod +x ~/hi
+  @~/hi
+  @rm ~/hi
+
