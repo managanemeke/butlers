@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!done.txt
 !justfile
 !todo.txt
 
