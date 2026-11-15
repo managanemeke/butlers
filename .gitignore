@@ -3,6 +3,7 @@
 !.gitignore
 !done.txt
 !justfile
+!readme.md
 !todo.txt
 
 !*.*
