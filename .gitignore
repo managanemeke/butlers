@@ -2,6 +2,7 @@
 
 !.gitignore
 !done.txt
+!install.sh
 !justfile
 !readme.md
 !todo.txt
