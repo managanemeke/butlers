@@ -6,7 +6,7 @@ list:
   @just --list
 
 hi:
-  @clang hi.c -o hi
+  @gcc hi.c -o hi
   @cp hi ~/hi
   @chmod +x ~/hi
   @~/hi
