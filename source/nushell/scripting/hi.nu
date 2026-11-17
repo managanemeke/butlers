@@ -1,2 +1,2 @@
-print "kia ora"
+print "nu: kia ora"
 

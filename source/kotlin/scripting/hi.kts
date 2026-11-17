@@ -1,2 +1,2 @@
-println("привет")
+println("kotlin: привет")
 

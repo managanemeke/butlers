@@ -1,2 +1,2 @@
-let () = print_endline "salut"
+let () = print_endline "ocaml: salut"
 

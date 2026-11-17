@@ -1,6 +1,6 @@
 .section .rodata
 msg:
-  .ascii "g'day\n"
+  .ascii "gas: g'day\n"
 msg_len = . - msg
 
   .text

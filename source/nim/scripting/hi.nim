@@ -1,2 +1,2 @@
-echo "moin"
+echo "nim: moin"
 
