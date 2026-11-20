@@ -7,8 +7,5 @@ list:
 
 hi:
   @rustc hi.rs
-  @cp hi ~/hi
-  @chmod +x ~/hi
-  @~/hi
-  @rm ~/hi
+  @./hi
 

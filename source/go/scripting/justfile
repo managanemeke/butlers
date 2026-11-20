@@ -7,8 +7,5 @@ list:
 
 hi:
   @go build hi.go
-  @cp hi ~/hi
-  @chmod +x ~/hi
-  @~/hi
-  @rm ~/hi
+  @./hi
 

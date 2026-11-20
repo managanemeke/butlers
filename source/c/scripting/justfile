@@ -7,8 +7,5 @@ list:
 
 hi:
   @gcc hi.c -o hi
-  @cp hi ~/hi
-  @chmod +x ~/hi
-  @~/hi
-  @rm ~/hi
+  @./hi
 
