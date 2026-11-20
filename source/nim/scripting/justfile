@@ -1,4 +1,4 @@
-set shell := ["bash", "-c"]
+set shell := ["nu", "-c"]
 
 default: list
 
